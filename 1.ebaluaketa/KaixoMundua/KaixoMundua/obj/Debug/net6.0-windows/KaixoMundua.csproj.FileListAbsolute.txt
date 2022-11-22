@@ -1,0 +1,17 @@
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KaixoMundua\KaixoMundua\bin\Debug\net6.0-windows\KaixoMundua.exe
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KaixoMundua\KaixoMundua\bin\Debug\net6.0-windows\KaixoMundua.deps.json
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KaixoMundua\KaixoMundua\bin\Debug\net6.0-windows\KaixoMundua.runtimeconfig.json
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KaixoMundua\KaixoMundua\bin\Debug\net6.0-windows\KaixoMundua.dll
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KaixoMundua\KaixoMundua\bin\Debug\net6.0-windows\KaixoMundua.pdb
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KaixoMundua\KaixoMundua\obj\Debug\net6.0-windows\KaixoMundua.csproj.AssemblyReference.cache
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KaixoMundua\KaixoMundua\obj\Debug\net6.0-windows\KaixoMundua.frmKaixoMundua.resources
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KaixoMundua\KaixoMundua\obj\Debug\net6.0-windows\KaixoMundua.csproj.GenerateResource.cache
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KaixoMundua\KaixoMundua\obj\Debug\net6.0-windows\KaixoMundua.GeneratedMSBuildEditorConfig.editorconfig
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KaixoMundua\KaixoMundua\obj\Debug\net6.0-windows\KaixoMundua.AssemblyInfoInputs.cache
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KaixoMundua\KaixoMundua\obj\Debug\net6.0-windows\KaixoMundua.AssemblyInfo.cs
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KaixoMundua\KaixoMundua\obj\Debug\net6.0-windows\KaixoMundua.csproj.CoreCompileInputs.cache
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KaixoMundua\KaixoMundua\obj\Debug\net6.0-windows\KaixoMundua.dll
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KaixoMundua\KaixoMundua\obj\Debug\net6.0-windows\refint\KaixoMundua.dll
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KaixoMundua\KaixoMundua\obj\Debug\net6.0-windows\KaixoMundua.pdb
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KaixoMundua\KaixoMundua\obj\Debug\net6.0-windows\KaixoMundua.genruntimeconfig.cache
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KaixoMundua\KaixoMundua\obj\Debug\net6.0-windows\ref\KaixoMundua.dll

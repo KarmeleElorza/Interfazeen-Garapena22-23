@@ -1,0 +1,15 @@
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Console_Herentzia\bin\Debug\net6.0\Console_Herentzia.exe
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Console_Herentzia\bin\Debug\net6.0\Console_Herentzia.deps.json
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Console_Herentzia\bin\Debug\net6.0\Console_Herentzia.runtimeconfig.json
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Console_Herentzia\bin\Debug\net6.0\Console_Herentzia.dll
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Console_Herentzia\bin\Debug\net6.0\Console_Herentzia.pdb
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Console_Herentzia\obj\Debug\net6.0\Console_Herentzia.csproj.AssemblyReference.cache
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Console_Herentzia\obj\Debug\net6.0\Console_Herentzia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Console_Herentzia\obj\Debug\net6.0\Console_Herentzia.AssemblyInfoInputs.cache
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Console_Herentzia\obj\Debug\net6.0\Console_Herentzia.AssemblyInfo.cs
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Console_Herentzia\obj\Debug\net6.0\Console_Herentzia.csproj.CoreCompileInputs.cache
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Console_Herentzia\obj\Debug\net6.0\Console_Herentzia.dll
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Console_Herentzia\obj\Debug\net6.0\refint\Console_Herentzia.dll
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Console_Herentzia\obj\Debug\net6.0\Console_Herentzia.pdb
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Console_Herentzia\obj\Debug\net6.0\Console_Herentzia.genruntimeconfig.cache
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Console_Herentzia\obj\Debug\net6.0\ref\Console_Herentzia.dll

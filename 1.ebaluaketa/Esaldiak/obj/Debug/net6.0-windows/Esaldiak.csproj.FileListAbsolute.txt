@@ -1,0 +1,17 @@
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Esaldiak\bin\Debug\net6.0-windows\Esaldiak.exe
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Esaldiak\bin\Debug\net6.0-windows\Esaldiak.deps.json
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Esaldiak\bin\Debug\net6.0-windows\Esaldiak.runtimeconfig.json
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Esaldiak\bin\Debug\net6.0-windows\Esaldiak.dll
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Esaldiak\bin\Debug\net6.0-windows\Esaldiak.pdb
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Esaldiak\obj\Debug\net6.0-windows\Esaldiak.csproj.AssemblyReference.cache
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Esaldiak\obj\Debug\net6.0-windows\Esaldiak.frmHasierakoa.resources
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Esaldiak\obj\Debug\net6.0-windows\Esaldiak.csproj.GenerateResource.cache
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Esaldiak\obj\Debug\net6.0-windows\Esaldiak.GeneratedMSBuildEditorConfig.editorconfig
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Esaldiak\obj\Debug\net6.0-windows\Esaldiak.AssemblyInfoInputs.cache
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Esaldiak\obj\Debug\net6.0-windows\Esaldiak.AssemblyInfo.cs
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Esaldiak\obj\Debug\net6.0-windows\Esaldiak.csproj.CoreCompileInputs.cache
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Esaldiak\obj\Debug\net6.0-windows\Esaldiak.dll
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Esaldiak\obj\Debug\net6.0-windows\refint\Esaldiak.dll
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Esaldiak\obj\Debug\net6.0-windows\Esaldiak.pdb
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Esaldiak\obj\Debug\net6.0-windows\Esaldiak.genruntimeconfig.cache
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Esaldiak\obj\Debug\net6.0-windows\ref\Esaldiak.dll

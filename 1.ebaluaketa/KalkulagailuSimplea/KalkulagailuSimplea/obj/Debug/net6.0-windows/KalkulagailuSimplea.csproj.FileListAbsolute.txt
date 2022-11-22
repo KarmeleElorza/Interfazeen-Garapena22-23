@@ -1,0 +1,17 @@
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KalkulagailuSimplea\KalkulagailuSimplea\bin\Debug\net6.0-windows\KalkulagailuSimplea.exe
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KalkulagailuSimplea\KalkulagailuSimplea\bin\Debug\net6.0-windows\KalkulagailuSimplea.deps.json
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KalkulagailuSimplea\KalkulagailuSimplea\bin\Debug\net6.0-windows\KalkulagailuSimplea.runtimeconfig.json
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KalkulagailuSimplea\KalkulagailuSimplea\bin\Debug\net6.0-windows\KalkulagailuSimplea.dll
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KalkulagailuSimplea\KalkulagailuSimplea\bin\Debug\net6.0-windows\KalkulagailuSimplea.pdb
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KalkulagailuSimplea\KalkulagailuSimplea\obj\Debug\net6.0-windows\KalkulagailuSimplea.csproj.AssemblyReference.cache
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KalkulagailuSimplea\KalkulagailuSimplea\obj\Debug\net6.0-windows\KalkulagailuSimplea.frmPrincipal.resources
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KalkulagailuSimplea\KalkulagailuSimplea\obj\Debug\net6.0-windows\KalkulagailuSimplea.csproj.GenerateResource.cache
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KalkulagailuSimplea\KalkulagailuSimplea\obj\Debug\net6.0-windows\KalkulagailuSimplea.GeneratedMSBuildEditorConfig.editorconfig
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KalkulagailuSimplea\KalkulagailuSimplea\obj\Debug\net6.0-windows\KalkulagailuSimplea.AssemblyInfoInputs.cache
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KalkulagailuSimplea\KalkulagailuSimplea\obj\Debug\net6.0-windows\KalkulagailuSimplea.AssemblyInfo.cs
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KalkulagailuSimplea\KalkulagailuSimplea\obj\Debug\net6.0-windows\KalkulagailuSimplea.csproj.CoreCompileInputs.cache
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KalkulagailuSimplea\KalkulagailuSimplea\obj\Debug\net6.0-windows\KalkulagailuSimplea.dll
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KalkulagailuSimplea\KalkulagailuSimplea\obj\Debug\net6.0-windows\refint\KalkulagailuSimplea.dll
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KalkulagailuSimplea\KalkulagailuSimplea\obj\Debug\net6.0-windows\KalkulagailuSimplea.pdb
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KalkulagailuSimplea\KalkulagailuSimplea\obj\Debug\net6.0-windows\KalkulagailuSimplea.genruntimeconfig.cache
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\KalkulagailuSimplea\KalkulagailuSimplea\obj\Debug\net6.0-windows\ref\KalkulagailuSimplea.dll

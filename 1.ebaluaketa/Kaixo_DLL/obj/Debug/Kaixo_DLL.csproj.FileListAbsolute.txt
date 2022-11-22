@@ -1,0 +1,8 @@
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Kaixo_DLL\bin\Debug\Kaixo_DLL.dll
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Kaixo_DLL\bin\Debug\Kaixo_DLL.pdb
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Kaixo_DLL\obj\Debug\Kaixo_DLL.csproj.AssemblyReference.cache
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Kaixo_DLL\obj\Debug\Kaixo_DLL.KaixoDLL.resources
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Kaixo_DLL\obj\Debug\Kaixo_DLL.csproj.GenerateResource.cache
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Kaixo_DLL\obj\Debug\Kaixo_DLL.csproj.CoreCompileInputs.cache
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Kaixo_DLL\obj\Debug\Kaixo_DLL.dll
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Kaixo_DLL\obj\Debug\Kaixo_DLL.pdb

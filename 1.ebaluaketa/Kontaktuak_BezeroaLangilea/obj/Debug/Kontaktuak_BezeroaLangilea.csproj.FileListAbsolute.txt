@@ -1,0 +1,11 @@
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Kontaktuak_BezeroaLangilea\bin\Debug\Kontaktuak_BezeroaLangilea.exe.config
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Kontaktuak_BezeroaLangilea\bin\Debug\Kontaktuak_BezeroaLangilea.exe
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Kontaktuak_BezeroaLangilea\bin\Debug\Kontaktuak_BezeroaLangilea.pdb
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Kontaktuak_BezeroaLangilea\obj\Debug\Kontaktuak_BezeroaLangilea.csproj.AssemblyReference.cache
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Kontaktuak_BezeroaLangilea\obj\Debug\Kontaktuak_BezeroaLangilea.csproj.SuggestedBindingRedirects.cache
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Kontaktuak_BezeroaLangilea\obj\Debug\Kontaktuak_BezeroaLangilea.Properties.Resources.resources
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Kontaktuak_BezeroaLangilea\obj\Debug\Kontaktuak_BezeroaLangilea.csproj.GenerateResource.cache
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Kontaktuak_BezeroaLangilea\obj\Debug\Kontaktuak_BezeroaLangilea.csproj.CoreCompileInputs.cache
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Kontaktuak_BezeroaLangilea\obj\Debug\Kontaktuak_BezeroaLangilea.exe
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Kontaktuak_BezeroaLangilea\obj\Debug\Kontaktuak_BezeroaLangilea.pdb
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Kontaktuak_BezeroaLangilea\obj\Debug\Kontaktuak_BezeroaLangilea.frmPrintzipala.resources

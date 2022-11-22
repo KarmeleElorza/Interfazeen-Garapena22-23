@@ -1,0 +1,14 @@
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\WinFormsGrafikoa\bin\Debug\WinFormsGrafikoa.exe.config
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\WinFormsGrafikoa\bin\Debug\WinFormsGrafikoa.exe
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\WinFormsGrafikoa\bin\Debug\WinFormsGrafikoa.pdb
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\WinFormsGrafikoa\bin\Debug\GrafikoaDll.dll
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\WinFormsGrafikoa\bin\Debug\GrafikoaDll.pdb
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.csproj.AssemblyReference.cache
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.csproj.SuggestedBindingRedirects.cache
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.Form1.resources
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.Properties.Resources.resources
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.csproj.GenerateResource.cache
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.csproj.CoreCompileInputs.cache
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.csproj.CopyComplete
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.exe
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.pdb

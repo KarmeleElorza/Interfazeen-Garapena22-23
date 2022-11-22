@@ -1,0 +1,17 @@
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\LehenengoProba\bin\Debug\net6.0-windows\LehenengoProba.exe
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\LehenengoProba\bin\Debug\net6.0-windows\LehenengoProba.deps.json
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\LehenengoProba\bin\Debug\net6.0-windows\LehenengoProba.runtimeconfig.json
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\LehenengoProba\bin\Debug\net6.0-windows\LehenengoProba.dll
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\LehenengoProba\bin\Debug\net6.0-windows\LehenengoProba.pdb
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\LehenengoProba\obj\Debug\net6.0-windows\LehenengoProba.csproj.AssemblyReference.cache
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\LehenengoProba\obj\Debug\net6.0-windows\LehenengoProba.csproj.GenerateResource.cache
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\LehenengoProba\obj\Debug\net6.0-windows\LehenengoProba.GeneratedMSBuildEditorConfig.editorconfig
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\LehenengoProba\obj\Debug\net6.0-windows\LehenengoProba.AssemblyInfoInputs.cache
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\LehenengoProba\obj\Debug\net6.0-windows\LehenengoProba.AssemblyInfo.cs
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\LehenengoProba\obj\Debug\net6.0-windows\LehenengoProba.csproj.CoreCompileInputs.cache
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\LehenengoProba\obj\Debug\net6.0-windows\LehenengoProba.dll
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\LehenengoProba\obj\Debug\net6.0-windows\refint\LehenengoProba.dll
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\LehenengoProba\obj\Debug\net6.0-windows\LehenengoProba.pdb
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\LehenengoProba\obj\Debug\net6.0-windows\LehenengoProba.genruntimeconfig.cache
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\LehenengoProba\obj\Debug\net6.0-windows\ref\LehenengoProba.dll
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\LehenengoProba\obj\Debug\net6.0-windows\LehenengoProba.Hello.resources

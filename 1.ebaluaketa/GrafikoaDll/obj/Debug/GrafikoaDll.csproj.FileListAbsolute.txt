@@ -1,0 +1,16 @@
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\GrafikoaDll\bin\Debug\GrafikoaDll.dll
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\GrafikoaDll\bin\Debug\GrafikoaDll.pdb
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\GrafikoaDll\obj\Debug\GrafikoaDll.csproj.AssemblyReference.cache
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\GrafikoaDll\obj\Debug\GrafikoaDll.grafikoa.resources
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\GrafikoaDll\obj\Debug\GrafikoaDll.csproj.GenerateResource.cache
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\GrafikoaDll\obj\Debug\GrafikoaDll.csproj.CoreCompileInputs.cache
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\GrafikoaDll\obj\Debug\GrafikoaDll.dll
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\GrafikoaDll\obj\Debug\GrafikoaDll.pdb
+D:\Goi mailako zikloa\DAM_2\KLASEA\GitHub\Interfazeen-Garapena22-23\GrafikoaDll\bin\Debug\GrafikoaDll.dll
+D:\Goi mailako zikloa\DAM_2\KLASEA\GitHub\Interfazeen-Garapena22-23\GrafikoaDll\bin\Debug\GrafikoaDll.pdb
+D:\Goi mailako zikloa\DAM_2\KLASEA\GitHub\Interfazeen-Garapena22-23\GrafikoaDll\obj\Debug\GrafikoaDll.csproj.AssemblyReference.cache
+D:\Goi mailako zikloa\DAM_2\KLASEA\GitHub\Interfazeen-Garapena22-23\GrafikoaDll\obj\Debug\GrafikoaDll.grafikoa.resources
+D:\Goi mailako zikloa\DAM_2\KLASEA\GitHub\Interfazeen-Garapena22-23\GrafikoaDll\obj\Debug\GrafikoaDll.csproj.GenerateResource.cache
+D:\Goi mailako zikloa\DAM_2\KLASEA\GitHub\Interfazeen-Garapena22-23\GrafikoaDll\obj\Debug\GrafikoaDll.csproj.CoreCompileInputs.cache
+D:\Goi mailako zikloa\DAM_2\KLASEA\GitHub\Interfazeen-Garapena22-23\GrafikoaDll\obj\Debug\GrafikoaDll.dll
+D:\Goi mailako zikloa\DAM_2\KLASEA\GitHub\Interfazeen-Garapena22-23\GrafikoaDll\obj\Debug\GrafikoaDll.pdb

@@ -1,0 +1,17 @@
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Zenbakiak_v2\bin\Debug\net6.0-windows\Zenbakiak_v2.exe
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Zenbakiak_v2\bin\Debug\net6.0-windows\Zenbakiak_v2.deps.json
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Zenbakiak_v2\bin\Debug\net6.0-windows\Zenbakiak_v2.runtimeconfig.json
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Zenbakiak_v2\bin\Debug\net6.0-windows\Zenbakiak_v2.dll
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Zenbakiak_v2\bin\Debug\net6.0-windows\Zenbakiak_v2.pdb
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Zenbakiak_v2\obj\Debug\net6.0-windows\Zenbakiak_v2.csproj.AssemblyReference.cache
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Zenbakiak_v2\obj\Debug\net6.0-windows\Zenbakiak_v2.frmZenbakiak.resources
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Zenbakiak_v2\obj\Debug\net6.0-windows\Zenbakiak_v2.csproj.GenerateResource.cache
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Zenbakiak_v2\obj\Debug\net6.0-windows\Zenbakiak_v2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Zenbakiak_v2\obj\Debug\net6.0-windows\Zenbakiak_v2.AssemblyInfoInputs.cache
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Zenbakiak_v2\obj\Debug\net6.0-windows\Zenbakiak_v2.AssemblyInfo.cs
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Zenbakiak_v2\obj\Debug\net6.0-windows\Zenbakiak_v2.csproj.CoreCompileInputs.cache
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Zenbakiak_v2\obj\Debug\net6.0-windows\Zenbakiak_v2.dll
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Zenbakiak_v2\obj\Debug\net6.0-windows\refint\Zenbakiak_v2.dll
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Zenbakiak_v2\obj\Debug\net6.0-windows\Zenbakiak_v2.pdb
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Zenbakiak_v2\obj\Debug\net6.0-windows\Zenbakiak_v2.genruntimeconfig.cache
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\Zenbakiak_v2\obj\Debug\net6.0-windows\ref\Zenbakiak_v2.dll

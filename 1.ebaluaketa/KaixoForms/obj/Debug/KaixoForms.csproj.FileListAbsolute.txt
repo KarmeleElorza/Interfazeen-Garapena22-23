@@ -1,0 +1,14 @@
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\KaixoForms\bin\Debug\KaixoForms.exe.config
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\KaixoForms\bin\Debug\KaixoForms.exe
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\KaixoForms\bin\Debug\KaixoForms.pdb
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\KaixoForms\bin\Debug\Kaixo_DLL.dll
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\KaixoForms\bin\Debug\Kaixo_DLL.pdb
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\KaixoForms\obj\Debug\KaixoForms.csproj.AssemblyReference.cache
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\KaixoForms\obj\Debug\KaixoForms.csproj.SuggestedBindingRedirects.cache
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\KaixoForms\obj\Debug\KaixoForms.Form1.resources
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\KaixoForms\obj\Debug\KaixoForms.Properties.Resources.resources
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\KaixoForms\obj\Debug\KaixoForms.csproj.GenerateResource.cache
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\KaixoForms\obj\Debug\KaixoForms.csproj.CoreCompileInputs.cache
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\KaixoForms\obj\Debug\KaixoForms.csproj.CopyComplete
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\KaixoForms\obj\Debug\KaixoForms.exe
+D:\Goi mailako zikloa\DAM_2\GitHub\Interfazeen-garapena22-23\KaixoForms\obj\Debug\KaixoForms.pdb

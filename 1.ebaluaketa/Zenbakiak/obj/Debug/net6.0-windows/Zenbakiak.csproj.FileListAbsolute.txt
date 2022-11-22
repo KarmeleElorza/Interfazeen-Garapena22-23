@@ -1,0 +1,17 @@
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Zenbakiak\bin\Debug\net6.0-windows\Zenbakiak.exe
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Zenbakiak\bin\Debug\net6.0-windows\Zenbakiak.deps.json
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Zenbakiak\bin\Debug\net6.0-windows\Zenbakiak.runtimeconfig.json
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Zenbakiak\bin\Debug\net6.0-windows\Zenbakiak.dll
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Zenbakiak\bin\Debug\net6.0-windows\Zenbakiak.pdb
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Zenbakiak\obj\Debug\net6.0-windows\Zenbakiak.csproj.AssemblyReference.cache
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Zenbakiak\obj\Debug\net6.0-windows\Zenbakiak.Form1.resources
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Zenbakiak\obj\Debug\net6.0-windows\Zenbakiak.csproj.GenerateResource.cache
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Zenbakiak\obj\Debug\net6.0-windows\Zenbakiak.GeneratedMSBuildEditorConfig.editorconfig
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Zenbakiak\obj\Debug\net6.0-windows\Zenbakiak.AssemblyInfoInputs.cache
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Zenbakiak\obj\Debug\net6.0-windows\Zenbakiak.AssemblyInfo.cs
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Zenbakiak\obj\Debug\net6.0-windows\Zenbakiak.csproj.CoreCompileInputs.cache
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Zenbakiak\obj\Debug\net6.0-windows\Zenbakiak.dll
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Zenbakiak\obj\Debug\net6.0-windows\refint\Zenbakiak.dll
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Zenbakiak\obj\Debug\net6.0-windows\Zenbakiak.pdb
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Zenbakiak\obj\Debug\net6.0-windows\Zenbakiak.genruntimeconfig.cache
+D:\Goi mailako zikloa\DAM_2\temporal\INTERFAZEEN_GARAPENA\Zenbakiak\obj\Debug\net6.0-windows\ref\Zenbakiak.dll
