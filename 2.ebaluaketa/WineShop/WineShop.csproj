@@ -8,11 +8,38 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="wwwroot\images\ardoa.jpg" />
+    <None Include="wwwroot\images\ardoak\amaren.jpg" />
+    <None Include="wwwroot\images\ardoak\carignane.jpg" />
+    <None Include="wwwroot\images\ardoak\chardonnay.jpg" />
+    <None Include="wwwroot\images\ardoak\dolcetto.jpg" />
+    <None Include="wwwroot\images\ardoak\lindes.jpg" />
+    <None Include="wwwroot\images\ardoak\meissner.jpg" />
+    <None Include="wwwroot\images\ardoak\remellurizuria.jpg" />
+    <None Include="wwwroot\images\ardoak\rose2017.jpg" />
+    <None Include="wwwroot\images\ardoak\saintbris.jpg" />
+    <None Include="wwwroot\images\ardoak\tintopesquera.jpg" />
+    <None Include="wwwroot\images\ardoak\veuvebrut.jpg" />
+    <None Include="wwwroot\images\banner1.jpg" />
+    <None Include="wwwroot\images\banner2.jpg" />
+    <None Include="wwwroot\images\banner3.jpg" />
+    <None Include="wwwroot\images\wine-desserts.jpg" />
+    <None Include="wwwroot\images\wine-red.jpg" />
+    <None Include="wwwroot\images\wine-sparkling.jpg" />
+    <None Include="wwwroot\images\wine-white.jpg" />
+    <None Include="wwwroot\images\wine_rose.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="6.0.9" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.9" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.9" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.9" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\lib\fontawesome\" />
   </ItemGroup>
 
 </Project>
