@@ -21,19 +21,19 @@ namespace Wineshop.Services
             return ardoaUpeltegiList;
         }
 
-        /*public async Task<IList<Ardoa>> IArdoaService.GetArdoak(int id)
+        public async Task<List<Ardoa>> GetArdoak()
         {
             List<Ardoa> ardoaList = new List<Ardoa>();
-            Uri rutaArdoa= new Uri(rutaTodos, id.ToString());
             using (var httpClient = new HttpClient())
             {
-                using (var response = await httpClient.GetAsync(rutaArdoa))
+                using (var response = await httpClient.GetAsync(rutaTodos))
                 {
                     string apiResponse = await response.Content.ReadAsStringAsync();
                     ardoaList = JsonConvert.DeserializeObject<List<Ardoa>>(apiResponse);
                 }
             }
             return ardoaList;
-        }*/
+        }
     }
 }
+
