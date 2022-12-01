@@ -6,5 +6,6 @@ namespace Wineshop.Services
     {
         Task<IList<ArdoaUpeltegi>> GetMota(int id);
         Task<List<Ardoa>> GetArdoak();
+        Task<Ardoa> GetArdoa(int id);
     }
 }

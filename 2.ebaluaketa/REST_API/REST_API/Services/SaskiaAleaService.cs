@@ -12,6 +12,11 @@ namespace REST_API.Services
 {
     public class SaskiaAleaService : ISaskiaAleaService
     {
+        public async Task<List<SaskiaAlea>> GetSaskiaAlea(string id)//lerro bakarra baino gehiago daudenean
+        {
+            return await _context.SaskiaAlea
+            .Where(a => a.SaskiaId == id).ToListAsync();
+        }
         private readonly WineShopDbContext _context;
 
         public SaskiaAleaService(WineShopDbContext context)
@@ -21,11 +26,6 @@ namespace REST_API.Services
         public async Task<List<SaskiaAlea>> GetSaskiaAleak()
         {
             return await _context.SaskiaAlea.ToListAsync();
-        }
-        public async Task<SaskiaAlea> GetSaskiaAlea(int id)
-        {
-            return await _context.SaskiaAlea
-                .SingleOrDefaultAsync(a => a.Id == id);
         }
         public async Task PutSaskiaAlea(SaskiaAlea saskiaAlea)
         {

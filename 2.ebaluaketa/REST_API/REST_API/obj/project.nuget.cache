@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SdHX1he+/RFgskRTJMLa9LhMtczaZBn4nNAJba6yZ9R2D3gMEXuudUkB8F56hzTgjOzZImbIsegc5v8ynVxsnA==",
+  "dgSpecHash": "/dzPn7QGX9XF1eNidKE/8F+U9E3QIkc9o8OcaabiYyDv5sndrOkr4cD0GCSOZNC0O2zxQmaruaRikxMcWnAHiw==",
   "success": true,
   "projectFilePath": "C:\\Users\\elorza.karmele\\Desktop\\GITHUB\\Interfazeen-Garapena22-23\\2.ebaluaketa\\REST_API\\REST_API\\REST_API.csproj",
   "expectedPackageFiles": [
@@ -133,11 +133,7 @@
     "C:\\Users\\elorza.karmele\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\elorza.karmele\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\elorza.karmele\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\elorza.karmele\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\elorza.karmele\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
-    "C:\\Users\\elorza.karmele\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\elorza.karmele\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\elorza.karmele\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\elorza.karmele\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
