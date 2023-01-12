@@ -13,9 +13,13 @@
             <button  type="submit" class="nav-link btn btn-link text-dark">Logout</button>
         </form>
     </li>
+    
 }
 else
 {
+    <li class="nav-item">
+            <a class="nav-link text-info" asp-area="" asp-controller="Home" asp-action=""><i class="fa fa-shopping-cart ms-2 me-3">(@await Component.InvokeAsync("SaskiaId"), new { saskiaId = 1 })</i></a>
+    </li>
     <li class="nav-item">
         <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Register">Register</a>
     </li>
